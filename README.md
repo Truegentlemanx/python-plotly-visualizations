@@ -28,4 +28,10 @@ Included examples:
 | `dice_visual_d6_d10.html` | Interactive HTML visualization |
 | `multiplication.py` | Supporting example using numerical patterns |
 
-## 🛠 Techno
+## 🛠 Requirements
+
+- **Python 3.14+**
+- Required packages (see `requirements.txt`):
+  - numpy
+  - pandas
+  - plotly
